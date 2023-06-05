@@ -10,9 +10,9 @@ src: [Проект Visual Studio 2022 для создания статическ
 - create site/.htaccess w rewrite rules
 
 ### Repo
-- create public repo 'site'
+- create public repo 'vvkdev.github.io'
 - upload 'site' folder to repo
 
 ### Pages
-- repo > settings > pages > branch > main >
+- repo > settings > pages > branch > main > save
 - wait for site-link appearing
